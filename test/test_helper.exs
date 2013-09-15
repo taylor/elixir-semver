@@ -1,0 +1,2 @@
+Mix.start
+ExUnit.start
